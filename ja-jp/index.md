@@ -1,3 +1,4 @@
+Language : [English](./../index.md) **日本語/Japanese**
 # zp3n's Toybox
 自分の制作物の名称と概要です。  
 

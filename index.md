@@ -1,3 +1,4 @@
+Language : **English** [日本語/Japanese](./ja-jp)
 # zp3n's Toybox
 Here is the name and overview of the product I created.
 
